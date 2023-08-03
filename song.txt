@@ -1,2 +1,3 @@
 this is 1st line of the github 
 thi is add 2nd line of the text file
+add new 3 line and check the history.
